@@ -27,7 +27,7 @@ This project is a **Streamlit web application** which predicts the high prices f
 1. **Clone the GitHub Repo**
 
 ```bash
-git clone https://github.com/Sidsuresh/XRP-Time-Series-Forecasting.git
+git clone https://github.com/gowtham-0810/XRP-Time-Series-Forecasting-main.git
 cd XRP_Forecast
 ```
 
